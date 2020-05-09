@@ -1,0 +1,7 @@
+## Interface: 11304
+## Title: honorEstimate
+## SavedVariablesPerCharacter: currentRank, currentProgress, currentRP, currentDecay, currentStanding, currentHonor, currentPool, currentBracket, currentBracketProgress
+## SavedVariablesPerCharacter: previousRank, previousProgress, previousRP, previousDecay, previousStanding, previousHonor, previousPool, previousBracket, previousBracketProgress
+## SavedVariablesPerCharacter: currentBracketSize, currentBracketMin, currentBracketMax, previousBracketSize, previousBracketMin, previousBracketMax
+## SavedVariablesPerCharacter: hePoint, heRelativePoint, hexOfs, heyOfs
+honorEstimate.lua
